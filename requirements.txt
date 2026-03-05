@@ -1,3 +1,7 @@
+streamlit>=1.30.0
+streamlit-option-menu
+protobuf>=4.0.0
+
 altair
 annotated-types
 anyio
@@ -51,7 +55,6 @@ pandas
 Pillow
 plotly
 proto-plus
-protobuf
 pyarrow
 pyasn1
 pyasn1_modules
@@ -77,8 +80,6 @@ six
 slicer
 smmap
 sniffio
-streamlit
-streamlit-option-menu
 tenacity
 threadpoolctl
 toml
