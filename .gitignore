@@ -216,3 +216,4 @@ __marimo__/
 .streamlit/secrets.toml
 retrain_all_models.py
 retrain_breast_cancer.py
+evaluate_models.py
